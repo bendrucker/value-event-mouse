@@ -40,7 +40,7 @@ var vtree = h('div', {
 
 #### `mouseEvent(name, handler, [data], [options])` -> `function`
 
-`handler`, `data` and `options` are passed directly to value-event.
+`handler`, `data` and `options`, are passed directly to value-event.
 
 ##### name
 
