@@ -1,0 +1,44 @@
+{
+  "name": "value-event-mouse",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "value-event handlers for mouse events",
+  "license": "MIT",
+  "repository": "bendrucker/value-event-mouse",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "value",
+    "event",
+    "value-event",
+    "mouse",
+    "dom"
+  ],
+  "devDependencies": {
+    "dispatch-event": "~1.0.0",
+    "global": "~4.3.0",
+    "standard": "^5.0.0",
+    "tape": "^4.0.0",
+    "virtual-dom": "~2.1.1"
+  },
+  "files": [
+    "index.js",
+    "enter.js",
+    "leave.js",
+    "move.js",
+    "out.js",
+    "over.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "assert-ok": "~1.0.0",
+    "dom-delegator": "^13.1.0",
+    "value-event": "^5.1.0"
+  }
+}
