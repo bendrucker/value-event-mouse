@@ -10,7 +10,9 @@ var events = {
   leave: null,
   move: null,
   out: null,
-  over: null
+  over: null,
+  down: null,
+  up: null
 }
 
 module.exports = function register (name, handler, data, options) {

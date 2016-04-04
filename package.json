@@ -33,7 +33,9 @@
     "leave.js",
     "move.js",
     "out.js",
-    "over.js"
+    "over.js",
+    "up.js",
+    "down.js"
   ],
   "dependencies": {
     "ap": "~0.2.0",
