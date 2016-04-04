@@ -1,7 +1,7 @@
 {
   "name": "value-event-mouse",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "value-event handlers for mouse events",
   "license": "MIT",
   "repository": "bendrucker/value-event-mouse",
