@@ -1,4 +1,4 @@
-# value-event-mouse [![Build Status](https://travis-ci.org/bendrucker/value-event-mouse.svg?branch=master)](https://travis-ci.org/bendrucker/value-event-mouse)
+# value-event-mouse [![Build Status](https://travis-ci.org/bendrucker/value-event-mouse.svg?branch=master)](https://travis-ci.org/bendrucker/value-event-mouse) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/value-event-mouse.svg)](https://greenkeeper.io/)
 
 > value-event handlers for mouse events
 
